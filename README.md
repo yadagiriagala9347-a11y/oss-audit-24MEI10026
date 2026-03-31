@@ -194,4 +194,4 @@ Key facts:
 
 ## Academic Integrity Note
 
-All scripts in this repository are original work written by Utkarsh Sharma, 24BCY10080. All comments and logic are the author's own. Scripts are designed to run on real Linux systems and demonstrate genuine understanding of shell scripting concepts as required by the Open Source Software course rubric.
+All scripts in this repository are original work written by Yadagiri Agala, 24MEI10026 . All comments and logic are the author's own. Scripts are designed to run on real Linux systems and demonstrate genuine understanding of shell scripting concepts as required by the Open Source Software course rubric.
